@@ -4,15 +4,15 @@
 # **First day live Projact**
 
 # Time to Taken
-> around 1 to 2 hours complete this projact
+> around 1 to 2 hours complete this project
 
 
 ---
-## 🚀  Projact Live Link <br>
+## 🚀  Project Live Link <br>
 ---
-This projact is been hosted on netlify [Live Projact Link](https://candid-bubblegum-1a4e2f.netlify.app/)
+This project is been hosted on netlify [Live Project Link](https://candid-bubblegum-1a4e2f.netlify.app/)
 
-![projact](./1.png)
+![project](./1.png)
 
 
 
